@@ -8,7 +8,7 @@ repository = "https://github.com/dongcool/near-bigdecimal"
 description = """
 Big decimal for NEAR smart contracts
 """
-keywords = ["bigdecimal", "smart contract"]
+keywords = ["bigdecimal"]
 edition = "2018"
 
 [dependencies]
