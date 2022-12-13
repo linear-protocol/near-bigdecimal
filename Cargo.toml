@@ -4,7 +4,7 @@ version = "0.1.1"
 authors = ["dongcool"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/dongcool/near-bigdecimal"
+repository = "https://github.com/linear-protocol/near-bigdecimal.git"
 description = """
 Big decimal for NEAR smart contracts
 """
